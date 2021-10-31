@@ -1,3 +1,3 @@
 # CV
 
-This repo contains my first websites's files.The website will act as my CV
+This repo contains my first websites's files.This website contains my personal info
